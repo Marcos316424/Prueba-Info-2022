@@ -10,10 +10,10 @@ DATABASES = {
         # 'ENGINE': 'django.db.backends.sqlite3',
         # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3')
         'ENGINE': 'mssql',
-        'NAME':'ddrmlbjn0p67md',
-        'USER': 'vqamoaupfutgjh',
-        'PASSWORD': '3c2515f524d6628d0abe9d31773cc58858df558eb70acc093b9e4279ddd58f70',
-        'HOST': 'ec2-3-219-19-205.compute-1.amazonaws.com',
+        'NAME':'d9n9gipqcd9ij5',
+        'USER': 'clzdcljdlfwjvv',
+        'PASSWORD': 'bc057a951154a9a55a5e7e2f0de2ea99b2abc3d796fb3c24e22d81d19b8f7fdf',
+        'HOST': 'ec2-3-93-206-109.compute-1.amazonaws.com',
         'PORT': '5432',
         'OPTIONS': {
             'driver': 'ODBC Driver 17 for SQL Server',
