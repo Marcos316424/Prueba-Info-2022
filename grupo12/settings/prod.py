@@ -15,9 +15,6 @@ DATABASES = {
         'PASSWORD': 'bc057a951154a9a55a5e7e2f0de2ea99b2abc3d796fb3c24e22d81d19b8f7fdf',
         'HOST': 'ec2-3-93-206-109.compute-1.amazonaws.com',
         'PORT': '5432',
-        'OPTIONS': {
-            'driver': 'ODBC Driver 17 for SQL Server',
-        },
     }
 }
 
