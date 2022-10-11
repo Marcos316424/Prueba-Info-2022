@@ -1,1 +1,1 @@
-web: gunicorn grupo12.wsgi --log-file -
+gunicorn grupo12.wsgi
