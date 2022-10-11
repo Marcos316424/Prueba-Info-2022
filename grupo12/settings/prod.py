@@ -9,7 +9,7 @@ DATABASES = {
     'default': {
         # 'ENGINE': 'django.db.backends.sqlite3',
         # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3')
-        'ENGINE': 'mssql',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME':'d9n9gipqcd9ij5',
         'USER': 'clzdcljdlfwjvv',
         'PASSWORD': 'bc057a951154a9a55a5e7e2f0de2ea99b2abc3d796fb3c24e22d81d19b8f7fdf',
