@@ -1,1 +1,1 @@
-web: gunicorn grupo12.wsgi
+web:gunicorn grupo12.wsgi
