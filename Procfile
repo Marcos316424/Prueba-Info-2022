@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath grupo12.wsgi
+web: gunicorn team1.wsgi --log-file -
