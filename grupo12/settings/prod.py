@@ -1,9 +1,12 @@
 from .base import *
 
-SETTINGFILES_DIRS = {
-    os.path.join(os.path.dirname(BASE_DIR), "settings"),
-}
+#SETTINGFILES_DIRS = {
+#    os.path.join(os.path.dirname(BASE_DIR), "settings"),
+#}
 
+STATICFILES_DIRS = (
+    os.path.join(os.path.dirname(BASE_DIR), "Visitante.static"),
+)
 
 DATABASES = {
     'default': {
