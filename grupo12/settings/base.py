@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-n#l&!j-djynh8=g_(dwe#0r&%usi54&)tv(_@j&kqoqaz2=25!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://grupo-12-info-2022-v2.herokuapp.com']
 
 
 # Application definition
