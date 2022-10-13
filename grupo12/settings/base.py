@@ -32,6 +32,7 @@ ALLOWED_HOSTS = ['https://grupo-12-info-2022-v2.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
+    'whitenoise.runserver_nostatic',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
